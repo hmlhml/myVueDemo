@@ -1,0 +1,22 @@
+{
+    "status": "0",
+    "message": [
+    {
+        "src": "src/static/img/img000.jpg"
+    },
+    {
+        "src": "src/static/img/img001.jpg"
+    },
+    {
+        "src": "src/static/img/img002.jpg"
+    },
+    {
+        "src": "src/static/img/img003.jpg"
+    },
+    {
+        "src": "src/static/img/img004.jpg"
+    },
+    {
+        "src": "src/static/img/img005.jpg"
+    }]
+}

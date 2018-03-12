@@ -1,0 +1,41 @@
+{
+    "status": 0,
+    "message": [
+    {
+        "id": 50,
+        "title": "Huawei/华为",
+        "xprice": "2699.00",
+        "yprice": "3199.00",
+        "cs": "",
+        "num": 5,
+        "buyNum": 1,
+        "no": "12345678yii",
+        "add_time": "Sun Mar 11 2018 19:49:50 GMT+0800 (中国标准时间)",
+        "src": "src/static/img/goods1.jpg"
+    },
+    {
+        "id": 51,
+        "title": "OPPO A57 ",
+        "xprice": "2999.00",
+        "yprice": "3599.00",
+        "cs": "",
+        "num": 192,
+        "buyNum": 1,
+        "no": "12345678yii",
+        "add_time": "Sun Mar 11 2018 19:49:50 GMT+0800 (中国标准时间)",
+        "src": "src/static/img/goods2.jpg"
+    },
+    {
+        "id": 52,
+        "title": "小米Note4",
+        "xprice": "2699.00",
+        "yprice": "3199.00",
+        "cs": "",
+        "num": 192,
+        "buyNum": 1,
+        "no": "12345678yii",
+        "add_time": "Sun Mar 11 2018 19:49:50 GMT+0800 (中国标准时间)",
+        "src": "src/static/img/goods3.jpg"
+    }]
+
+}

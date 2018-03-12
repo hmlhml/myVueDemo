@@ -1,0 +1,20 @@
+{
+    "status": 0,
+    "message": [
+    {
+        "id": 62,
+        "src": "src/static/img/goods13.jpg",
+        "title": "vivo X9S 2000万双摄新升级",
+        "xprice": "1999.00",
+        "yprice": "3099.00",
+        "num": 122
+    },
+    {
+        "id": 63,
+        "src": "src/static/img/goods14.jpg",
+        "title": "vivo X9S 2000万双摄新升级",
+        "xprice": "1999.00",
+        "yprice": "3099.00",
+        "num": 122
+    }]
+}

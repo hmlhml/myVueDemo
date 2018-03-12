@@ -1,0 +1,52 @@
+{
+    "status": 0,
+    "message": [
+    {
+        "id": 50,
+        "src": "src/static/img/goods1.jpg",
+        "title": "Huawei/华为",
+        "xprice": "2699.00",
+        "yprice": "3199.00",
+        "num": 5
+    },
+    {
+        "id": 51,
+        "src": "src/static/img/goods2.jpg",
+        "title": "OPPO A57 ",
+        "xprice": "2999.00",
+        "yprice": "3599.00",
+        "num": 312
+    },
+    {
+        "id": 52,
+        "src": "src/static/img/goods3.jpg",
+        "title": "vivo y66",
+        "xprice": "2999.00",
+        "yprice": "3599.00",
+        "num": 432
+    },
+    {
+        "id": 53,
+        "src": "src/static/img/goods4.jpg",
+        "title": "Meizu/魅族",
+        "xprice": "1999.00",
+        "yprice": "2199.00",
+        "num": 218
+    },
+    {
+        "id": 54,
+        "src": "src/static/img/goods5.jpg",
+        "title": "Huawei/华为",
+        "xprice": "4999.00",
+        "yprice": "5599.00",
+        "num": 112
+    },
+    {
+        "id": 55,
+        "src": "src/static/img/goods6.jpg",
+        "title": "Gionee/金立",
+        "xprice": "1999.00",
+        "yprice": "3099.00",
+        "num": 122
+    }]
+}

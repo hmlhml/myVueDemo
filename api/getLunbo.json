@@ -1,0 +1,17 @@
+{
+    "status": "0",
+    "message": [
+    {
+        "url": "",
+        "src": "src/static/img/banner_v.jpg"
+    },
+    {
+        "url": "",
+        "src": "src/static/img/banner_r.jpg"
+    },
+    {
+        "url": "",
+        "src": "src/static/img/banner_a.jpg"
+    }]
+
+}
